@@ -1,0 +1,20 @@
+.profile-wrapper{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  height: calc(100vh - 60px)
+}
+
+.user-detail-wrapper{
+  margin-top: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.user-detail-wrapper h2, p{
+  color: white;
+  margin: 10px 0px;
+}

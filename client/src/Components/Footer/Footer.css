@@ -1,0 +1,30 @@
+.footer-wrapper{
+  height: 200px;
+  padding: 20px 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.sm-links a{
+  color: #fff;
+  text-decoration: none;
+}
+
+.sec-2{
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: flex-start;
+}
+
+.sec-3{
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: flex-start;
+}
+
+
+
+
