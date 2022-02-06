@@ -1,6 +1,12 @@
+html{
+  --dark: #070827;
+  --light: #fbe5e6;
+  --light-bg: #F4F4F4
+}
+
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Helvetica', sans-serif;
+  font-family: 'Helvetica Neue', sans-serif;
 }
